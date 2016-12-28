@@ -795,6 +795,16 @@ footer hr {
   footer .col-md-4 {
     padding-top: 42px;
   }
+    
+    #portfolio .portfolio-grid{
+  -webkit-column-count: 1;
+  -webkit-column-gap:   20px;
+  -moz-column-count:    1;
+  -moz-column-gap:      20px;
+  column-count:         1;
+  column-gap:           20px;  
+}
+
 
 }
 
